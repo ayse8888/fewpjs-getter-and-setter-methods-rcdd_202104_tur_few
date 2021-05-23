@@ -15,5 +15,5 @@ class Circle {
   }
 }
  
-  let circle = new Circle(Math.PI);
-  circle
+  // let circle = new Circle(Math.PI);
+  // circle
